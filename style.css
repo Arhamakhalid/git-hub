@@ -1,0 +1,296 @@
+
+.loan{
+    cursor: pointer;
+}
+.wow{
+    margin-top: 25px;
+}
+.cat{
+    color: rgb(2, 2, 90);
+}
+.cat:hover{
+    color: red;
+}
+.beige{
+    background-color: red;
+    color: white;
+    border: 5px red;
+}
+.beige:hover{
+    color: red;
+    background-color: white;
+    border: 5px red;
+}
+.oval{
+    width: 100%;
+    height: 900px;
+    background: rgba(0, 0, 0, 0.7) url('https://demo.epic-webdesign.com/tf-launchpage/v3/images/bg2.jpg');
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+}
+
+.ee{
+    color: rgb(5, 5, 97);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.div{
+    margin-left: 190px;
+}
+.brac{
+    margin-left: -70px;
+}
+.two{
+    margin-left: 130px;
+}
+.rr{
+    border-radius: 15px 15px 15px 15px;
+    margin-left: 70px;  
+}
+.pl{
+    margin-top: 140px;
+    position: relative;
+    left: 70px;
+}
+.rod{
+    position: relative;
+    top: 70px;
+}
+.sist{
+    margin-top: 75px;
+    margin-left: 30px;
+}
+.wo{
+    margin-top: 20px;
+}
+.mk{
+    margin-top: 90px;
+    margin-left: 25px;
+}
+.ml{
+    position: absolute;
+    left: 150px;
+}
+.hm{
+    margin-left: 20px;
+}
+.jk{
+    margin-left: 600px;
+    margin-top: -390px;
+    margin-bottom: 50px;
+}
+.blan img{
+    opacity: 0.4;
+    margin-left: -125px;
+    max-height: 55px;
+    padding-left: 8em;
+
+}
+.blan img:hover{
+    opacity: 0.8 !important;
+    color: black; 
+}
+.bet img{
+    opacity: 0.4;
+    margin-left: -125px;
+    max-height: 55px;
+    padding-left: 8em; 
+}
+.bet img:hover{
+    opacity: 0.8 !important;
+    color: black; 
+}
+.qq{
+    margin-left: -30px;
+}
+.arh{
+    margin-left: 35px;
+}
+.sic{
+    margin-left: 30px;
+}
+.brown{
+    margin-right: 120px;
+}
+.bar{
+    position: relative;
+    left: 240px;
+    
+}
+.sui{
+    position: relative;
+    left: 170px;
+}
+.break{
+    position: relative;
+    left: 60px;
+}
+.grou{
+    position: relative;
+    right:  50px;
+}
+.brew{
+    margin-top: 10px;
+}
+.pink{
+    margin: 15px;
+}
+.grey{
+    position: relative;
+    margin-top: 180px;
+
+}
+.jet{
+    position: relative;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.smallbox{
+    margin-left: 30px;
+}
+.text{
+    padding: 70px;
+    margin-top: 90px;
+}
+.dio{
+    margin-top: -65px;
+}
+.rou{
+    width: 0px;
+}
+.butt{
+    color: red;
+    background-color: white;
+    border: none;
+}
+.tou{
+    background-color: red;
+    color: white;
+    border: 10px white;
+}
+.tou:hover{
+    color: red;
+    background-color: white;
+    border: none;
+}
+.gray{
+  padding: 120px;
+  margin-top: 50px;
+}
+.ort{
+    position: absolute;
+    left: 170px;
+    bottom: -4500px;
+}
+.dar{
+    margin-top: 80px;
+    height: 500px;
+}
+.ter{
+    margin-top: 30px;
+}
+.sheh{
+    position: absolute;
+    left: 558px;
+    bottom: -4500px;
+}
+.peac{
+    position: absolute;
+    left: 925px;
+    bottom: -4500px;
+}
+.gear{
+    margin-top: 140px;
+}
+.peach{
+    position: absolute;
+    left: 170px;
+    bottom: -4770px;
+    top: 5210px;
+}
+.aroo{
+    position: absolute;
+    left: 558px;
+    bottom: -4770px;
+    top: 5210px;
+}
+.biro{
+    position: absolute;
+    left: 925px;
+    bottom: -4770px;
+    top: 5210px;
+}
+.bee{
+    color: rgb(35, 224, 35);
+}
+.tex{
+    color: orangered;
+}
+.lig{
+    margin-top: 120px;
+    height: 100vh;
+}
+.ss{
+    padding-top: 150px;
+}
+.month{
+    position: relative;
+    top: 70px;
+}
+.dry{
+    margin-top: 60px;
+}
+.get{
+    margin-top: 60px;
+    color: red;
+    cursor: pointer;
+}
+.get:hover{
+    color: white;
+}
+.ann{
+    position: relative;
+    top: 70px;
+}
+.bor{
+    margin-top: 40px;
+}
+.week{
+    margin-top: 30px;
+}
+.pear{
+    margin-top: 100px;
+}
+.pees{
+    position: relative;
+    top: 40px;
+    left: 35px;
+}
+.brea{
+    position: relative;
+    left: 290px;
+    top: 6px;
+    padding: 12px;
+    width: 240px;
+    margin: 10px;
+    border: none;
+    border: 10px;
+    background-color: red;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+.bro{
+    height: 100%;
+}
+.grow{
+  padding-top: 100px;
+}
+.egg{
+    width: 510px;
+    height: 100px;
+    margin-left: 22px;
+}
+
+
+
+
+
